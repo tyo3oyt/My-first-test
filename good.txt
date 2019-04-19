@@ -1,13 +1,8 @@
-wo are family
-1243
-tianyu
-3305362558
-bendiku 
-baiduyixia
-peizhenizhangda
-nageshagua 
-shashadedengzhenidehuida 
-nageshagua
-kanzhenijinranshuobuchuhua
-xianghen
-wanghexing nb
+#include<bits/stdc++>
+using namespace std;
+int main()
+{
+cout<<"Hello github"<<endl;
+cout<<"Hello git"<<endl;
+return 0;
+}
